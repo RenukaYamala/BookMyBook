@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BookMyBook.SelectedBookDetails">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image x:Name="BookImageLable" HeightRequest="200"/>
+            <Label x:Name="BookNameLable"  HorizontalTextAlignment="Center" Font="Bold"/>
+            <Label x:Name="BookAuthorLable" HorizontalTextAlignment="Center" Font="Bold"/>
+            <Label x:Name="BookPriceLable" HorizontalTextAlignment="Center" Font="Bold"/>
+            <Label x:Name="BookRateLable" HorizontalTextAlignment="Center" Font="Bold"/>
+            <StackLayout>
+                <Button HorizontalOptions="Center" Text="Buy Now" Clicked="BuyNow" />
+            </StackLayout>
+            <StackLayout>
+                <Label x:Name="BookDetailsLable" HorizontalTextAlignment="Start" TextColor="#4169e1" Font="Bold,20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

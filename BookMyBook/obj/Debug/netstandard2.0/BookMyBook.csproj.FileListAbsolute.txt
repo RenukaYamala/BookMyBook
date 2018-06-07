@@ -1,0 +1,9 @@
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\bin\Debug\netstandard2.0\BookMyBook.deps.json
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\bin\Debug\netstandard2.0\BookMyBook.dll
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\bin\Debug\netstandard2.0\BookMyBook.pdb
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.csprojAssemblyReference.cache
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.csproj.CoreCompileInputs.cache
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.AssemblyInfoInputs.cache
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.AssemblyInfo.cs
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.dll
+c:\users\renuka.yamala\source\repos\BookMyBook\BookMyBook\BookMyBook\obj\Debug\netstandard2.0\BookMyBook.pdb
